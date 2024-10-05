@@ -7,7 +7,6 @@ import com.seva.employee.mapper.EmployeeMapper;
 import com.seva.employee.repository.EmployeeRepository;
 import com.seva.employee.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
